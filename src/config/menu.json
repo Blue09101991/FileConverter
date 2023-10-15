@@ -1,0 +1,41 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Tools",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Image Converter",
+          "url": "/imageconv"
+        },
+        {
+          "name": "Video Converter",
+          "url": "/videoconv"
+        },
+        {
+          "name": "Doc Converter",
+          "url": "/docconv"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Terms of Use",
+      "url": "/"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/"
+    }
+  ]
+}

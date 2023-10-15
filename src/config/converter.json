@@ -1,0 +1,29 @@
+{
+    "imageConverter": {
+        "frontmatter": {
+            "title": "Image Converter",
+            "description": "Easily convert images from one format to another.",
+            "meta_title": "Easy Image Converter - Your App Name",
+            "image": "/path/to/seo-image-for-image-converter.jpg"
+        },
+        "content": "This is the content of the Image Converter page. Adjust this as needed."
+    },
+    "videoConverter": {
+        "frontmatter": {
+            "title": "Video Converter",
+            "description": "Easily convert images from one format to another.",
+            "meta_title": "Easy Image Converter - Your App Name",
+            "image": "/path/to/seo-image-for-image-converter.jpg"
+        },
+        "content": "This is the content of the Image Converter page. Adjust this as needed."
+    },
+    "docConverter": {
+        "frontmatter": {
+            "title": "Document Converter",
+            "description": "Easily convert images from one format to another.",
+            "meta_title": "Easy Image Converter - Your App Name",
+            "image": "/path/to/seo-image-for-image-converter.jpg"
+        },
+        "content": "This is the content of the Image Converter page. Adjust this as needed."
+    }
+}
